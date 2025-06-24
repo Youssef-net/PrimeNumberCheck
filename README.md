@@ -9,3 +9,10 @@
 - Se si trova un (f) come numero primo  bisogna interrompere l'esecuzione restituendo true
 - Se invece nessuna (f) è un numero primo bisogna restituire false;
          
+### Concetti di programmazione praticati
+
+- "for" loop
+- "if" statement
+
+### Lezione imparata
+--- Scrivere su carta i passaggi da seguire è molto utile
