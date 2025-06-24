@@ -16,4 +16,4 @@
 
 ### Lezione imparata
 
---- Scrivere su carta i passaggi da seguire è molto utile
+--- Scrivere su carta i passaggi da seguire è molto utile ---
