@@ -6,7 +6,7 @@
      
 - Bisogna trovare la frequenza (f appartenete ad N) di ciascun numero (n appartente ad N) presente in un array
 - controllare se (f) di (n) è un numero primo
-- Se si trova un (f) come numero primo  bisogna interrompere l'esecuzione restituendo true
+- Se si trova una (f) come numero primo  bisogna interrompere l'esecuzione restituendo true
 - Se invece nessuna (f) è un numero primo bisogna restituire false
 
 ### Il codice è organizzato in tre classi:
