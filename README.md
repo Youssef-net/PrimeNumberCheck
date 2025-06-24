@@ -1,4 +1,5 @@
 # PrimeNumberCheck
+
      ## In questo esercizio proposto da leetcode.com
      
          * Bisogna trovare la frequenza(f appartenete ad N) di ciascun numero(x appartente ad N) presente in un array
