@@ -17,19 +17,13 @@
 
 #### Classe Test
 
-##### Qui troviamo
-
-- 5 casi di array per testare il programma
-- metodi **testCase_[case_number]** per l'escuzione dei test di ciascun caso
-- metodo **testingStart** che stampa il risultato del testo in base a 2 parametri: - **nums** array di tipo int[] - **expected** di tpo boolean 
+- Contiene 5 casi di array per testare il programma
+- I metodi **testCase_[case_number]** per l'escuzione dei test di ciascun caso
+- Il metodo **testingStart** che stampa il risultato del testo in base a 2 parametri: - **nums** array di tipo int[] - **expected** di tpo boolean 
 
 #### Classe Main
 
 -- Punto di partenza per l'esecuzione del programma --
-
-###
-- 
-
          
 ### Concetti di programmazione praticati
 
